@@ -1,8 +1,5 @@
-one
-<<<<<<< HEAD
+
 remote
 dev branch
-=======
 local
-remote
->>>>>>> origin
+
