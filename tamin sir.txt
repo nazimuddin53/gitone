@@ -1,0 +1,14 @@
+1. create an account in Git lab 
+2. Smart Git 
+3. VS code 
+4. Atom
+5. Node js
+6. nvm (Node version manager) 
+7. Hapy js
+8. PostgresSQL - 11
+9. db eaber
+10. open jdk 1.8
+11. Ubuntu
+12. Python 3.6
+
+shahadat
